@@ -1,0 +1,10 @@
+bin/
+out/
+runs/
+data/*.bin
+data/hotspots_real.csv
+results/*.mp4
+results/*.gif
+__pycache__/
+*.o
+*.exe
